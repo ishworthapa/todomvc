@@ -6,7 +6,7 @@ A short introduction of this app could easily go here.
 
 ## Web resource for this project:
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Introduction)
-* 
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
